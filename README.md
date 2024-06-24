@@ -5,11 +5,11 @@
 <table align="center">
   <tr>
     <td>Level:</td>
-    <td>23 (Total EXP:8535)</td>
+    <td>23 (Total EXP: 8535)</td>
   </tr>
   <tr>
     <td>Dream Role:</td>
-    <td>Programmer on holiday</td>
+    <td>Programming Necromancer on holiday</td>
   </tr>
   <tr>
     <td>Current Role:</td>
@@ -17,20 +17,7 @@
   </tr>
 <tr>
     <td>Weapons:</td>
-    <td>Visual Studio, Git, Photoshop, Sandwich</td>
-  </tr>
-<tr>
-    <td>Money:</td>
-    <td>10g + a Sandwich</td>
-  </tr>
-    <tr>
-    <td>Pets:</td>
-    <td>2 Cats</td>
+    <td><a href="https://github.com/NewQar">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewQar&theme=dark&layout=compact&hide=Jupyter%20Notebook&langs_count=10&bg_color=101010&hide_title=true"></a></td>
   </tr>
 </table>
-<h3 align="center">Skills</h3>
-<p align="center">
-<a href="https://github.com/NewQar">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewQar&theme=dark&layout=compact&hide=Jupyter%20Notebook&langs_count=10&bg_color=101010&hide_title=true">
-</a>
-</p>
