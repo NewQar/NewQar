@@ -5,7 +5,7 @@
 <table align="center">
   <tr>
     <td>Level:</td>
-    <td>23</td>
+    <td>23 (Total EXP:8535)</td>
   </tr>
   <tr>
     <td>Dream Role:</td>
@@ -13,10 +13,24 @@
   </tr>
   <tr>
     <td>Current Role:</td>
-    <td>Final Year Computer Science Degree Student</td>
+    <td>Computer Science Degree Student</td>
+  </tr>
+<tr>
+    <td>Weapons:</td>
+    <td>Visual Studio, Git, Photoshop, Sandwich</td>
+  </tr>
+<tr>
+    <td>Money:</td>
+    <td>10g + a Sandwich</td>
+  </tr>
+    <tr>
+    <td>Pets:</td>
+    <td>2 Cats</td>
   </tr>
 </table>
-    <h3 align="center">Languages & Tools</h3>
+<h3 align="center">Skills</h3>
 <p align="center">
-    <a href="https://github.com/NewQar"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewQar&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+<a href="https://github.com/NewQar">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewQar&theme=dark&layout=compact&hide=Jupyter%20Notebook&langs_count=10&bg_color=101010&hide_title=true">
+</a>
 </p>
