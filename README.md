@@ -18,6 +18,6 @@
 <tr>
     <td>Weapons:</td>
     <td><a href="https://github.com/NewQar">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewQar&theme=dark&layout=compact&hide=Jupyter%20Notebook&langs_count=10&bg_color=101010&hide_title=true"></a></td>
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewQar&theme=dark&layout=compact&hide=Jupyter%20Notebook&langs_count=12&bg_color=101010&hide_title=true"></a></td>
   </tr>
 </table>
