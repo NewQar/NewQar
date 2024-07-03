@@ -22,6 +22,6 @@
 <tr>
 </table>
 <p align="center">
-    <img width="40%" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewQar&theme=dark&layout=compact&hide=Jupyter%20Notebook&langs_count=8&bg_color=000000&hide_title=true">
+    <img width="40%" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewQar&theme=dark&layout=compact&hide=Jupyter%20Notebook&langs_count=18&bg_color=000000&hide_title=true">
   <img width="40%" height="150" src="https://streak-stats.demolab.com?user=NewQar&theme=highcontrast&hide_border=true&border_radius=5">
 </p>
