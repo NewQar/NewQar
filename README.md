@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td>Current Role:</td>
-    <td>Computer Science Degree Student</td>
+    <td>Internship at an Investment Inc</td>
   </tr>
 <tr>
     <td>Companion:</td>
