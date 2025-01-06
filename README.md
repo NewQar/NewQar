@@ -9,15 +9,15 @@
   </tr>
   <tr>
     <td>Dream Role:</td>
-    <td>Programming Necromancer on holiday</td>
+    <td>Retirement</td>
   </tr>
   <tr>
     <td>Current Role:</td>
-    <td>Internship at an Investment Inc</td>
+    <td>Associate at Fintech Company</td>
   </tr>
 <tr>
     <td>Companion:</td>
-    <td>2 Cats & 1 Laptop</td>
+    <td>2 Cats & 2 Laptops</td>
   </tr>
 <tr>
 </table>
