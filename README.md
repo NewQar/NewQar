@@ -17,7 +17,7 @@
   </tr>
 <tr>
     <td>Companion:</td>
-    <td>2 Cats & 2 Laptops</td>
+    <td>1 Cat & 2 Laptops</td>
   </tr>
 <tr>
 </table>
