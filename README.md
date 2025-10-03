@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td>Current Role:</td>
-    <td>Associate at Fintech Company</td>
+    <td>Enterprise Architect</td>
   </tr>
 <tr>
     <td>Companion:</td>
