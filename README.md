@@ -5,11 +5,11 @@
 <table align="center">
   <tr>
     <td>Level:</td>
-    <td>24 (Total EXP: 9,025 / 9,131)</td>
+    <td>24 (Total EXP: 9,027 / 9,131)</td>
   </tr>
   <tr>
     <td>Dream Role:</td>
-    <td>Retirement</td>
+    <td>The One That Changed The World</td>
   </tr>
   <tr>
     <td>Current Role:</td>
