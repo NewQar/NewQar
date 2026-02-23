@@ -5,7 +5,7 @@
 <table align="center">
   <tr>
     <td>Level:</td>
-    <td>24 (Total EXP: 9,119 / 9,131)</td>
+    <td>25 (Total EXP: 9,139 / 9,496)</td>
   </tr>
   <tr>
     <td>Dream Role:</td>
